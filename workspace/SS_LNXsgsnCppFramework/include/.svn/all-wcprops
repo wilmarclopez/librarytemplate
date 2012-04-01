@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/paco_repo/!svn/ver/1441/Projects/SS_LNXsgsnCppFramework/include
+END
+DestinationConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/paco_repo/!svn/ver/1362/Projects/SS_LNXsgsnCppFramework/include/DestinationConfiguration.h
+END
+MessageFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/include/MessageFactory.h
+END
+Framework.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/paco_repo/!svn/ver/1441/Projects/SS_LNXsgsnCppFramework/include/Framework.h
+END
+ProcessExecutor.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/include/ProcessExecutor.h
+END
+Process.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/include/Process.h
+END
+ChannelConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/paco_repo/!svn/ver/1414/Projects/SS_LNXsgsnCppFramework/include/ChannelConfiguration.h
+END
+DMXPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/paco_repo/!svn/ver/1362/Projects/SS_LNXsgsnCppFramework/include/DMXPacket.h
+END
+State.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/include/State.h
+END
+StatesMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/include/StatesMap.h
+END
+INIFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/paco_repo/!svn/ver/1372/Projects/SS_LNXsgsnCppFramework/include/INIFileReader.h
+END
+ConfigMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/include/ConfigMap.h
+END
+ProgressState.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/paco_repo/!svn/ver/1361/Projects/SS_LNXsgsnCppFramework/include/ProgressState.h
+END

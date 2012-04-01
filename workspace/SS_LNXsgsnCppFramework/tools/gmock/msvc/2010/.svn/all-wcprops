@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/msvc/2010
+END
+gmock_config.props
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/msvc/2010/gmock_config.props
+END
+gmock_test.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/msvc/2010/gmock_test.vcxproj
+END
+gmock.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/msvc/2010/gmock.vcxproj
+END
+gmock.sln
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/msvc/2010/gmock.sln
+END
+gmock_main.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/msvc/2010/gmock_main.vcxproj
+END

@@ -1,0 +1,678 @@
+GCOV produced the following errors processing /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.svn-base:
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/text-base/ProgressState.gcda.gcno:cannot open graph file
+(gcovr could not infer a working directory that resolved it.)
+GCOV produced the following errors processing /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.svn-base:
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+   /home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/build/.svn/prop-base/ProgressState.gcda.gcno:cannot open graph file
+(gcovr could not infer a working directory that resolved it.)
+<?xml version="1.0" ?>
+<!DOCTYPE coverage
+  SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-03.dtd'>
+<coverage branch-rate="0.6" line-rate="0.0297239915074" timestamp="1331282612" version="gcovr 2.4-prerelease">
+	<sources>
+		<source>
+			.
+		</source>
+	</sources>
+	<packages>
+		<package branch-rate="0.0" complexity="0.0" line-rate="0.0" name=".usr.include.bits">
+			<classes>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/bits/stdio2.h" line-rate="0.0" name="stdio2_h">
+					<lines>
+						<line branch="false" hits="0" number="35"/>
+						<line branch="false" hits="0" number="105"/>
+						<line branch="false" hits="0" number="247"/>
+						<line branch="false" hits="0" number="249"/>
+						<line branch="false" hits="0" number="250"/>
+						<line branch="false" hits="0" number="252"/>
+						<line branch="false" hits="0" number="253"/>
+						<line branch="false" hits="0" number="255"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/bits/string3.h" line-rate="0.0" name="string3_h">
+					<lines>
+						<line branch="false" hits="0" number="107"/>
+						<line branch="false" hits="0" number="78"/>
+						<line branch="false" hits="0" number="80"/>
+						<line branch="false" hits="0" number="83"/>
+						<line branch="false" hits="0" number="84"/>
+						<line branch="false" hits="0" number="86"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package branch-rate="0.0" complexity="0.0" line-rate="0.0" name=".usr.include">
+			<classes>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/pthread.h" line-rate="0.0" name="pthread_h">
+					<lines>
+						<line branch="false" hits="0" number="1137"/>
+						<line branch="false" hits="0" number="1139"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/stdlib.h" line-rate="0.0" name="stdlib_h">
+					<lines>
+						<line branch="false" hits="0" number="291"/>
+						<line branch="false" hits="0" number="286"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package branch-rate="0.0" complexity="0.0" line-rate="0.0" name=".usr.include.c++.4.4.bits">
+			<classes>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/allocator.h" line-rate="0.0" name="allocator_h">
+					<lines>
+						<line branch="false" hits="0" number="101"/>
+						<line branch="false" hits="0" number="104"/>
+						<line branch="false" hits="0" number="107"/>
+						<line branch="false" hits="0" number="109"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/basic_ios.h" line-rate="0.0" name="basic_ios_h">
+					<lines>
+						<line branch="false" hits="0" number="128"/>
+						<line branch="false" hits="0" number="192"/>
+						<line branch="false" hits="0" number="450"/>
+						<line branch="false" hits="0" number="452"/>
+						<line branch="false" hits="0" number="453"/>
+						<line branch="false" hits="0" number="48"/>
+						<line branch="false" hits="0" number="272"/>
+						<line branch="false" hits="0" number="112"/>
+						<line branch="false" hits="0" number="49"/>
+						<line branch="false" hits="0" number="50"/>
+						<line branch="false" hits="0" number="147"/>
+						<line branch="false" hits="0" number="148"/>
+						<line branch="false" hits="0" number="439"/>
+						<line branch="false" hits="0" number="440"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/basic_string.h" line-rate="0.0" name="basic_string_h">
+					<lines>
+						<line branch="false" hits="0" number="258"/>
+						<line branch="false" hits="0" number="260"/>
+						<line branch="false" hits="0" number="519"/>
+						<line branch="false" hits="0" number="2317"/>
+						<line branch="false" hits="0" number="1807"/>
+						<line branch="false" hits="0" number="278"/>
+						<line branch="false" hits="0" number="286"/>
+						<line branch="false" hits="0" number="299"/>
+						<line branch="false" hits="0" number="301"/>
+						<line branch="false" hits="0" number="302"/>
+						<line branch="false" hits="0" number="303"/>
+						<line branch="false" hits="0" number="306"/>
+						<line branch="false" hits="0" number="308"/>
+						<line branch="false" hits="0" number="309"/>
+						<line branch="false" hits="0" number="310"/>
+						<line branch="false" hits="0" number="1613"/>
+						<line branch="false" hits="0" number="1623"/>
+						<line branch="false" hits="0" number="1630"/>
+						<line branch="false" hits="0" number="2021"/>
+						<line branch="false" hits="0" number="2147"/>
+						<line branch="false" hits="0" number="629"/>
+						<line branch="false" hits="0" number="635"/>
+						<line branch="false" hits="0" number="2026"/>
+						<line branch="false" hits="0" number="2027"/>
+						<line branch="false" hits="0" number="2028"/>
+						<line branch="false" hits="0" number="394"/>
+						<line branch="false" hits="0" number="396"/>
+						<line branch="false" hits="0" number="397"/>
+						<line branch="false" hits="0" number="398"/>
+						<line branch="false" hits="0" number="399"/>
+						<line branch="false" hits="0" number="401"/>
+						<line branch="false" hits="0" number="412"/>
+						<line branch="false" hits="0" number="746"/>
+						<line branch="false" hits="0" number="178"/>
+						<line branch="false" hits="0" number="179"/>
+						<line branch="false" hits="0" number="184"/>
+						<line branch="false" hits="0" number="2538"/>
+						<line branch="false" hits="0" number="972"/>
+						<line branch="false" hits="0" number="975"/>
+						<line branch="false" hits="0" number="2001"/>
+						<line branch="false" hits="0" number="2003"/>
+						<line branch="false" hits="0" number="215"/>
+						<line branch="false" hits="0" number="2267"/>
+						<line branch="false" hits="0" number="2019"/>
+						<line branch="false" hits="0" number="229"/>
+						<line branch="false" hits="0" number="2022"/>
+						<line branch="false" hits="0" number="2023"/>
+						<line branch="false" hits="0" number="232"/>
+						<line branch="false" hits="0" number="2025"/>
+						<line branch="false" hits="0" number="234"/>
+						<line branch="false" hits="0" number="747"/>
+						<line branch="false" hits="0" number="236"/>
+						<line branch="false" hits="0" number="237"/>
+						<line branch="false" hits="0" number="502"/>
+						<line branch="false" hits="0" number="503"/>
+						<line branch="false" hits="0" number="2540"/>
+						<line branch="false" hits="0" number="511"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/char_traits.h" line-rate="0.0" name="char_traits_h">
+					<lines>
+						<line branch="false" hits="0" number="259"/>
+						<line branch="false" hits="0" number="263"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/ios_base.h" line-rate="0.0" name="ios_base_h">
+					<lines>
+						<line branch="false" hits="0" number="129"/>
+						<line branch="false" hits="0" number="163"/>
+						<line branch="false" hits="0" number="167"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/locale_facets.h" line-rate="0.0" name="locale_facets_h">
+					<lines>
+						<line branch="false" hits="0" number="867"/>
+						<line branch="false" hits="0" number="868"/>
+						<line branch="false" hits="0" number="869"/>
+						<line branch="false" hits="0" number="870"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/stl_algobase.h" line-rate="0.0" name="stl_algobase_h">
+					<lines>
+						<line branch="false" hits="0" number="192"/>
+						<line branch="false" hits="0" number="193"/>
+						<line branch="false" hits="0" number="191"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/stl_function.h" line-rate="0.0" name="stl_function_h">
+					<lines>
+						<line branch="false" hits="0" number="489"/>
+						<line branch="false" hits="0" number="230"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/stl_map.h" line-rate="0.0" name="stl_map_h">
+					<lines>
+						<line branch="false" hits="0" number="449"/>
+						<line branch="false" hits="0" number="450"/>
+						<line branch="false" hits="0" number="451"/>
+						<line branch="false" hits="0" number="325"/>
+						<line branch="false" hits="0" number="151"/>
+						<line branch="false" hits="0" number="659"/>
+						<line branch="false" hits="0" number="87"/>
+						<line branch="false" hits="0" number="635"/>
+						<line branch="false" hits="0" number="540"/>
+						<line branch="false" hits="0" number="701"/>
+						<line branch="false" hits="0" number="447"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/stl_pair.h" line-rate="0.0" name="stl_pair_h">
+					<lines>
+						<line branch="false" hits="0" number="68"/>
+						<line branch="false" hits="0" number="84"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/bits/stl_tree.h" line-rate="0.0" name="stl_tree_h">
+					<lines>
+						<line branch="false" hits="0" number="517"/>
+						<line branch="false" hits="0" number="521"/>
+						<line branch="false" hits="0" number="525"/>
+						<line branch="false" hits="0" number="529"/>
+						<line branch="false" hits="0" number="179"/>
+						<line branch="false" hits="0" number="591"/>
+						<line branch="false" hits="0" number="614"/>
+						<line branch="false" hits="0" number="622"/>
+						<line branch="false" hits="0" number="628"/>
+						<line branch="false" hits="0" number="640"/>
+						<line branch="false" hits="0" number="1161"/>
+						<line branch="false" hits="0" number="1164"/>
+						<line branch="false" hits="0" number="1165"/>
+						<line branch="false" hits="0" number="1166"/>
+						<line branch="false" hits="0" number="1167"/>
+						<line branch="false" hits="0" number="1169"/>
+						<line branch="false" hits="0" number="1170"/>
+						<line branch="false" hits="0" number="1171"/>
+						<line branch="false" hits="0" number="1174"/>
+						<line branch="false" hits="0" number="1176"/>
+						<line branch="false" hits="0" number="1177"/>
+						<line branch="false" hits="0" number="1181"/>
+						<line branch="false" hits="0" number="1182"/>
+						<line branch="false" hits="0" number="671"/>
+						<line branch="false" hits="0" number="369"/>
+						<line branch="false" hits="0" number="171"/>
+						<line branch="false" hits="0" number="175"/>
+						<line branch="false" hits="0" number="200"/>
+						<line branch="false" hits="0" number="371"/>
+						<line branch="false" hits="0" number="1206"/>
+						<line branch="false" hits="0" number="1210"/>
+						<line branch="false" hits="0" number="1212"/>
+						<line branch="false" hits="0" number="1215"/>
+						<line branch="false" hits="0" number="1217"/>
+						<line branch="false" hits="0" number="1219"/>
+						<line branch="false" hits="0" number="199"/>
+						<line branch="false" hits="0" number="1224"/>
+						<line branch="false" hits="0" number="1225"/>
+						<line branch="false" hits="0" number="1226"/>
+						<line branch="false" hits="0" number="375"/>
+						<line branch="false" hits="0" number="1229"/>
+						<line branch="false" hits="0" number="1230"/>
+						<line branch="false" hits="0" number="1233"/>
+						<line branch="false" hits="0" number="1236"/>
+						<line branch="false" hits="0" number="213"/>
+						<line branch="false" hits="0" number="1238"/>
+						<line branch="false" hits="0" number="1242"/>
+						<line branch="false" hits="0" number="1243"/>
+						<line branch="false" hits="0" number="1244"/>
+						<line branch="false" hits="0" number="1245"/>
+						<line branch="false" hits="0" number="1248"/>
+						<line branch="false" hits="0" number="1249"/>
+						<line branch="false" hits="0" number="1251"/>
+						<line branch="false" hits="0" number="1254"/>
+						<line branch="false" hits="0" number="1259"/>
+						<line branch="false" hits="0" number="246"/>
+						<line branch="false" hits="0" number="259"/>
+						<line branch="false" hits="0" number="260"/>
+						<line branch="false" hits="0" number="274"/>
+						<line branch="false" hits="0" number="275"/>
+						<line branch="false" hits="0" number="986"/>
+						<line branch="false" hits="0" number="350"/>
+						<line branch="false" hits="0" number="354"/>
+						<line branch="false" hits="0" number="359"/>
+						<line branch="false" hits="0" number="874"/>
+						<line branch="false" hits="0" number="363"/>
+						<line branch="false" hits="0" number="879"/>
+						<line branch="false" hits="0" number="881"/>
+						<line branch="false" hits="0" number="883"/>
+						<line branch="false" hits="0" number="372"/>
+						<line branch="false" hits="0" number="886"/>
+						<line branch="false" hits="0" number="887"/>
+						<line branch="false" hits="0" number="377"/>
+						<line branch="false" hits="0" number="1223"/>
+						<line branch="false" hits="0" number="383"/>
+						<line branch="false" hits="0" number="1421"/>
+						<line branch="false" hits="0" number="1424"/>
+						<line branch="false" hits="0" number="427"/>
+						<line branch="false" hits="0" number="434"/>
+						<line branch="false" hits="0" number="1183"/>
+						<line branch="false" hits="0" number="446"/>
+						<line branch="false" hits="0" number="447"/>
+						<line branch="false" hits="0" number="448"/>
+						<line branch="false" hits="0" number="449"/>
+						<line branch="false" hits="0" number="964"/>
+						<line branch="false" hits="0" number="968"/>
+						<line branch="false" hits="0" number="970"/>
+						<line branch="false" hits="0" number="971"/>
+						<line branch="false" hits="0" number="973"/>
+						<line branch="false" hits="0" number="975"/>
+						<line branch="false" hits="0" number="466"/>
+						<line branch="false" hits="0" number="985"/>
+						<line branch="false" hits="0" number="474"/>
+						<line branch="false" hits="0" number="987"/>
+						<line branch="false" hits="0" number="989"/>
+						<line branch="false" hits="0" number="990"/>
+						<line branch="false" hits="0" number="482"/>
+						<line branch="false" hits="0" number="493"/>
+						<line branch="false" hits="0" number="501"/>
+						<line branch="false" hits="0" number="505"/>
+						<line branch="false" hits="0" number="509"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package branch-rate="0.0" complexity="0.0" line-rate="0.0" name=".usr.include.c++.4.4.ext">
+			<classes>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/ext/atomicity.h" line-rate="0.0" name="atomicity_h">
+					<lines>
+						<line branch="false" hits="0" number="64"/>
+						<line branch="false" hits="0" number="65"/>
+						<line branch="false" hits="0" number="66"/>
+						<line branch="false" hits="0" number="78"/>
+						<line branch="false" hits="0" number="79"/>
+						<line branch="false" hits="0" number="81"/>
+						<line branch="false" hits="0" number="46"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/ext/new_allocator.h" line-rate="0.0" name="new_allocator_h">
+					<lines>
+						<line branch="false" hits="0" number="99"/>
+						<line branch="false" hits="0" number="105"/>
+						<line branch="false" hits="0" number="115"/>
+						<line branch="false" hits="0" number="86"/>
+						<line branch="false" hits="0" number="87"/>
+						<line branch="false" hits="0" number="89"/>
+						<line branch="false" hits="0" number="95"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package branch-rate="0.6" complexity="0.0" line-rate="0.0722222222222" name=".home.jarciolo.Documents.SS_LNXsgsnCppFramework.src">
+			<classes>
+				<class branch-rate="0.0" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/Framework.cpp" line-rate="0.0" name="Framework_cpp">
+					<lines>
+						<line branch="false" hits="0" number="3"/>
+						<line branch="false" hits="0" number="5"/>
+						<line branch="false" hits="0" number="6"/>
+						<line branch="false" hits="0" number="8"/>
+						<line branch="false" hits="0" number="10"/>
+						<line branch="false" hits="0" number="11"/>
+						<line branch="false" hits="0" number="17"/>
+						<line branch="false" hits="0" number="19"/>
+						<line branch="false" hits="0" number="21"/>
+						<line branch="false" hits="0" number="22"/>
+						<line branch="false" hits="0" number="23"/>
+						<line branch="false" hits="0" number="27"/>
+						<line branch="false" hits="0" number="32"/>
+						<line branch="false" hits="0" number="34"/>
+						<line branch="false" hits="0" number="35"/>
+						<line branch="false" hits="0" number="36"/>
+						<line branch="false" hits="0" number="37"/>
+						<line branch="false" hits="0" number="38"/>
+						<line branch="false" hits="0" number="41"/>
+						<line branch="false" hits="0" number="43"/>
+						<line branch="false" hits="0" number="45"/>
+						<line branch="false" hits="0" number="51"/>
+						<line branch="false" hits="0" number="66"/>
+						<line branch="false" hits="0" number="69"/>
+						<line branch="false" hits="0" number="72"/>
+					</lines>
+				</class>
+				<class branch-rate="0.5" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/INIFileReader.cpp" line-rate="0.00917431192661" name="INIFileReader_cpp">
+					<lines>
+						<line branch="false" hits="0" number="21"/>
+						<line branch="false" hits="0" number="22"/>
+						<line branch="false" hits="0" number="23"/>
+						<line branch="false" hits="0" number="24"/>
+						<line branch="false" hits="0" number="26"/>
+						<line branch="false" hits="0" number="27"/>
+						<line branch="false" hits="0" number="33"/>
+						<line branch="false" hits="0" number="35"/>
+						<line branch="false" hits="0" number="36"/>
+						<line branch="false" hits="0" number="39"/>
+						<line branch="false" hits="0" number="41"/>
+						<line branch="false" hits="0" number="45"/>
+						<line branch="false" hits="0" number="47"/>
+						<line branch="false" hits="0" number="49"/>
+						<line branch="false" hits="0" number="50"/>
+						<line branch="false" hits="0" number="52"/>
+						<line branch="false" hits="0" number="53"/>
+						<line branch="false" hits="0" number="54"/>
+						<line branch="false" hits="0" number="56"/>
+						<line branch="false" hits="0" number="57"/>
+						<line branch="false" hits="0" number="58"/>
+						<line branch="false" hits="0" number="60"/>
+						<line branch="false" hits="0" number="61"/>
+						<line branch="false" hits="0" number="62"/>
+						<line branch="false" hits="0" number="64"/>
+						<line branch="false" hits="0" number="66"/>
+						<line branch="false" hits="0" number="68"/>
+						<line branch="false" hits="0" number="69"/>
+						<line branch="false" hits="0" number="71"/>
+						<line branch="false" hits="0" number="72"/>
+						<line branch="false" hits="0" number="73"/>
+						<line branch="false" hits="0" number="74"/>
+						<line branch="false" hits="0" number="76"/>
+						<line branch="false" hits="0" number="78"/>
+						<line branch="false" hits="0" number="79"/>
+						<line branch="false" hits="0" number="80"/>
+						<line branch="false" hits="0" number="82"/>
+						<line branch="false" hits="0" number="85"/>
+						<line branch="false" hits="0" number="87"/>
+						<line branch="false" hits="0" number="88"/>
+						<line branch="false" hits="0" number="90"/>
+						<line branch="false" hits="0" number="91"/>
+						<line branch="false" hits="0" number="93"/>
+						<line branch="false" hits="0" number="95"/>
+						<line branch="false" hits="0" number="96"/>
+						<line branch="false" hits="0" number="97"/>
+						<line branch="false" hits="0" number="100"/>
+						<line branch="false" hits="0" number="103"/>
+						<line branch="false" hits="0" number="106"/>
+						<line branch="false" hits="0" number="107"/>
+						<line branch="false" hits="0" number="108"/>
+						<line branch="false" hits="0" number="109"/>
+						<line branch="false" hits="0" number="111"/>
+						<line branch="false" hits="0" number="112"/>
+						<line branch="false" hits="0" number="114"/>
+						<line branch="false" hits="0" number="116"/>
+						<line branch="false" hits="0" number="119"/>
+						<line branch="false" hits="0" number="122"/>
+						<line branch="false" hits="0" number="123"/>
+						<line branch="false" hits="0" number="125"/>
+						<line branch="false" hits="0" number="132"/>
+						<line branch="false" hits="0" number="140"/>
+						<line branch="false" hits="0" number="141"/>
+						<line branch="false" hits="0" number="142"/>
+						<line branch="false" hits="0" number="150"/>
+						<line branch="false" hits="0" number="159"/>
+						<line branch="false" hits="0" number="160"/>
+						<line branch="false" hits="0" number="163"/>
+						<line branch="false" hits="0" number="164"/>
+						<line branch="false" hits="0" number="167"/>
+						<line branch="false" hits="0" number="168"/>
+						<line branch="false" hits="0" number="171"/>
+						<line branch="false" hits="0" number="172"/>
+						<line branch="false" hits="0" number="178"/>
+						<line branch="false" hits="0" number="180"/>
+						<line branch="false" hits="0" number="184"/>
+						<line branch="false" hits="0" number="186"/>
+						<line branch="false" hits="0" number="189"/>
+						<line branch="false" hits="0" number="192"/>
+						<line branch="false" hits="0" number="193"/>
+						<line branch="false" hits="0" number="195"/>
+						<line branch="false" hits="0" number="197"/>
+						<line branch="false" hits="0" number="198"/>
+						<line branch="false" hits="0" number="199"/>
+						<line branch="false" hits="0" number="202"/>
+						<line branch="false" hits="0" number="203"/>
+						<line branch="false" hits="0" number="206"/>
+						<line branch="false" hits="0" number="208"/>
+						<line branch="false" hits="0" number="212"/>
+						<line branch="false" hits="0" number="213"/>
+						<line branch="false" hits="0" number="215"/>
+						<line branch="false" hits="0" number="219"/>
+						<line branch="false" hits="0" number="222"/>
+						<line branch="false" hits="0" number="224"/>
+						<line branch="false" hits="0" number="227"/>
+						<line branch="false" hits="0" number="228"/>
+						<line branch="false" hits="0" number="234"/>
+						<line branch="false" hits="0" number="236"/>
+						<line branch="false" hits="0" number="238"/>
+						<line branch="false" hits="0" number="242"/>
+						<line branch="false" hits="0" number="244"/>
+						<line branch="false" hits="0" number="247"/>
+						<line branch="false" hits="0" number="250"/>
+						<line branch="false" hits="0" number="251"/>
+						<line branch="false" hits="0" number="253"/>
+						<line branch="false" hits="0" number="257"/>
+						<line branch="false" hits="0" number="259"/>
+						<line branch="false" hits="0" number="263"/>
+						<line branch="true" condition-coverage="50% (2/4)" hits="2" number="264">
+							<conditions>
+								<condition coverage="50%" number="0" type="jump"/>
+							</conditions>
+						</line>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/MessageFactory.cpp" line-rate="0.0" name="MessageFactory_cpp">
+					<lines>
+						<line branch="false" hits="0" number="8"/>
+						<line branch="false" hits="0" number="3"/>
+						<line branch="false" hits="0" number="11"/>
+						<line branch="false" hits="0" number="6"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/ProcessExecutor.cpp" line-rate="0.0" name="ProcessExecutor_cpp">
+					<lines>
+						<line branch="false" hits="0" number="3"/>
+						<line branch="false" hits="0" number="6"/>
+						<line branch="false" hits="0" number="8"/>
+						<line branch="false" hits="0" number="11"/>
+						<line branch="false" hits="0" number="13"/>
+						<line branch="false" hits="0" number="16"/>
+						<line branch="false" hits="0" number="18"/>
+						<line branch="false" hits="0" number="20"/>
+						<line branch="false" hits="0" number="21"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/Process.cpp" line-rate="0.0" name="Process_cpp">
+					<lines>
+						<line branch="false" hits="0" number="3"/>
+						<line branch="false" hits="0" number="5"/>
+						<line branch="false" hits="0" number="7"/>
+						<line branch="false" hits="0" number="9"/>
+						<line branch="false" hits="0" number="12"/>
+						<line branch="false" hits="0" number="13"/>
+						<line branch="false" hits="0" number="15"/>
+						<line branch="false" hits="0" number="16"/>
+						<line branch="false" hits="0" number="17"/>
+					</lines>
+				</class>
+				<class branch-rate="0.666666666667" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/ProgressState.cpp" line-rate="0.923076923077" name="ProgressState_cpp">
+					<lines>
+						<line branch="false" hits="3" number="3"/>
+						<line branch="false" hits="3" number="4"/>
+						<line branch="false" hits="3" number="5"/>
+						<line branch="true" condition-coverage="50% (1/2)" hits="3" number="7">
+							<conditions>
+								<condition coverage="50%" number="0" type="jump"/>
+							</conditions>
+						</line>
+						<line branch="false" hits="3" number="9"/>
+						<line branch="true" condition-coverage="100% (2/2)" hits="3" number="11">
+							<conditions>
+								<condition coverage="100%" number="0" type="jump"/>
+							</conditions>
+						</line>
+						<line branch="false" hits="1" number="12"/>
+						<line branch="true" condition-coverage="50% (1/2)" hits="2" number="14">
+							<conditions>
+								<condition coverage="50%" number="0" type="jump"/>
+							</conditions>
+						</line>
+						<line branch="false" hits="0" number="15"/>
+						<line branch="false" hits="2" number="18"/>
+						<line branch="false" hits="3" number="20"/>
+						<line branch="false" hits="3" number="22"/>
+						<line branch="false" hits="3" number="24"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/State.cpp" line-rate="0.0" name="State_cpp">
+					<lines>
+						<line branch="false" hits="0" number="3"/>
+						<line branch="false" hits="0" number="6"/>
+						<line branch="false" hits="0" number="8"/>
+						<line branch="false" hits="0" number="11"/>
+						<line branch="false" hits="0" number="12"/>
+						<line branch="false" hits="0" number="14"/>
+						<line branch="false" hits="0" number="16"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/home/jarciolo/Documents/SS_LNXsgsnCppFramework/src/StatesMap.cpp" line-rate="0.0" name="StatesMap_cpp">
+					<lines>
+						<line branch="false" hits="0" number="8"/>
+						<line branch="false" hits="0" number="3"/>
+						<line branch="false" hits="0" number="11"/>
+						<line branch="false" hits="0" number="6"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package branch-rate="0.0" complexity="0.0" line-rate="0.0" name=".usr.include.c++.4.4.x86_64-linux-gnu.bits">
+			<classes>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/x86_64-linux-gnu/bits/gthr-default.h" line-rate="0.0" name="gthr-default_h">
+					<lines>
+						<line branch="false" hits="0" number="242"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+		<package branch-rate="0.0" complexity="0.0" line-rate="0.0181818181818" name=".usr.include.c++.4.4">
+			<classes>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/fstream" line-rate="0.0" name="fstream">
+					<lines>
+						<line branch="false" hits="0" number="905"/>
+						<line branch="false" hits="0" number="907"/>
+						<line branch="false" hits="0" number="908"/>
+						<line branch="false" hits="0" number="909"/>
+						<line branch="false" hits="0" number="782"/>
+						<line branch="false" hits="0" number="527"/>
+						<line branch="false" hits="0" number="784"/>
+						<line branch="false" hits="0" number="532"/>
+						<line branch="false" hits="0" number="533"/>
+						<line branch="false" hits="0" number="825"/>
+						<line branch="false" hits="0" number="826"/>
+						<line branch="false" hits="0" number="454"/>
+						<line branch="false" hits="0" number="455"/>
+						<line branch="false" hits="0" number="457"/>
+						<line branch="false" hits="0" number="458"/>
+						<line branch="false" hits="0" number="459"/>
+						<line branch="false" hits="0" number="845"/>
+						<line branch="false" hits="0" number="525"/>
+						<line branch="false" hits="0" number="214"/>
+						<line branch="false" hits="0" number="215"/>
+						<line branch="false" hits="0" number="783"/>
+						<line branch="false" hits="0" number="222"/>
+						<line branch="false" hits="0" number="223"/>
+						<line branch="false" hits="0" number="528"/>
+						<line branch="false" hits="0" number="868"/>
+						<line branch="false" hits="0" number="485"/>
+						<line branch="false" hits="0" number="486"/>
+						<line branch="false" hits="0" number="873"/>
+						<line branch="false" hits="0" number="874"/>
+						<line branch="false" hits="0" number="869"/>
+						<line branch="false" hits="0" number="865"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/iostream" line-rate="1.0" name="iostream">
+					<lines>
+						<line branch="false" hits="1" number="72"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/istream" line-rate="0.0" name="istream">
+					<lines>
+						<line branch="false" hits="0" number="101"/>
+						<line branch="false" hits="0" number="102"/>
+						<line branch="false" hits="0" number="583"/>
+						<line branch="false" hits="0" number="582"/>
+						<line branch="false" hits="0" number="581"/>
+						<line branch="false" hits="0" number="795"/>
+						<line branch="false" hits="0" number="798"/>
+						<line branch="false" hits="0" number="799"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/new" line-rate="0.0" name="new">
+					<lines>
+						<line branch="false" hits="0" number="101"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/ostream" line-rate="0.0" name="ostream">
+					<lines>
+						<line branch="false" hits="0" number="512"/>
+						<line branch="false" hits="0" number="507"/>
+						<line branch="false" hits="0" number="361"/>
+						<line branch="false" hits="0" number="362"/>
+						<line branch="false" hits="0" number="560"/>
+						<line branch="false" hits="0" number="113"/>
+						<line branch="false" hits="0" number="91"/>
+						<line branch="false" hits="0" number="505"/>
+						<line branch="false" hits="0" number="538"/>
+						<line branch="false" hits="0" number="539"/>
+						<line branch="false" hits="0" number="508"/>
+						<line branch="false" hits="0" number="510"/>
+					</lines>
+				</class>
+				<class branch-rate="0.0" complexity="0.0" filename="/usr/include/c++/4.4/streambuf" line-rate="0.0" name="streambuf">
+					<lines>
+						<line branch="false" hits="0" number="192"/>
+						<line branch="false" hits="0" number="193"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
+

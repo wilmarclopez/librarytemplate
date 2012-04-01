@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/configure.ac
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/Makefile.am
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/CONTRIBUTORS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/aclocal.m4
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/CMakeLists.txt
+END

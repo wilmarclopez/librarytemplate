@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/paco_repo/!svn/ver/1437/Projects/SS_LNXsgsnCppFramework/build
+END
+run_test_cov.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paco_repo/!svn/ver/1364/Projects/SS_LNXsgsnCppFramework/build/run_test_cov.sh
+END
+config-sgsnRanapHr.INI
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/paco_repo/!svn/ver/1437/Projects/SS_LNXsgsnCppFramework/build/config-sgsnRanapHr.INI
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/paco_repo/!svn/ver/1417/Projects/SS_LNXsgsnCppFramework/build/makefile
+END
+common.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paco_repo/!svn/ver/1417/Projects/SS_LNXsgsnCppFramework/build/common.mk
+END

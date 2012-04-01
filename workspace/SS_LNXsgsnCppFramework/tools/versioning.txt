@@ -1,0 +1,7 @@
+Gmock 1.6.0 - Google C++ Mocking Framework
+http://code.google.com/p/googlemock/
+
+
+
+Gtest 1.6.0 - Google C++ Testing Framework
+http://code.google.com/p/googletest/

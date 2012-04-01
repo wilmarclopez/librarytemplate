@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux/config.h.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux/ltmain.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/build-aux/install-sh
+END

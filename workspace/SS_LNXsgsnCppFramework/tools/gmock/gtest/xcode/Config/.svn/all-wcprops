@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/xcode/Config
+END
+StaticLibraryTarget.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/xcode/Config/StaticLibraryTarget.xcconfig
+END
+FrameworkTarget.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/xcode/Config/FrameworkTarget.xcconfig
+END
+TestTarget.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/xcode/Config/TestTarget.xcconfig
+END
+ReleaseProject.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/xcode/Config/ReleaseProject.xcconfig
+END
+DebugProject.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/xcode/Config/DebugProject.xcconfig
+END
+General.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/xcode/Config/General.xcconfig
+END

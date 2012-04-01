@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/scripts/generator/cpp
+END
+tokenize.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/scripts/generator/cpp/tokenize.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/scripts/generator/cpp/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/scripts/generator/cpp/utils.py
+END
+gmock_class.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/scripts/generator/cpp/gmock_class.py
+END
+ast.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/scripts/generator/cpp/ast.py
+END
+keywords.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/scripts/generator/cpp/keywords.py
+END

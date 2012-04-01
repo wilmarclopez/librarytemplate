@@ -1,0 +1,84 @@
+#########################################################
+#  LOGGING
+#########################################################
+LOG_LEVEL=DEBUG
+
+#########################################################
+#  MESSAGING
+#########################################################
+INITIAL_STATE_CLASS=com.nsn.ns30.app.ranapjni.InitialState
+MESSAGE_FACTORY_CLASS=com.nsn.ns30.app.ranapjni.RanapMessageFactory
+
+#########################################################
+#  CACHING
+#########################################################
+CACHE_SIZE=50
+
+#########################################################
+#  THREADING
+#########################################################
+CORE_POOL_SIZE=4
+MAXIMUM_POOL_SIZE=4
+KEEPALIVETIME=1
+TIMEUNIT=HOURS
+
+#########################################################
+#  UDP CHANNEL
+#########################################################
+UDP_CHANNEL_ID=UDP_CHANNEL_RANAP
+UDP_CHANNEL_CLASS=com.nsn.mme.common.communication.udp.UDPChannel
+UDP_CHANNEL_DATA_PROC_CLASS=com.nsn.mme.sgsnFramework.communication.dataprocessor.UDPDataProcessor
+UDP_CHANNEL_TYPE=UDP
+UDP_CHANNEL_CAPACITY=5120
+UDP_CHANNEL_PORT=9942
+
+#########################################################
+#  DMX CHANNEL
+#########################################################
+DMX_CHANNEL_ID=DMX_CHANNEL_RANAP
+DMX_CHANNEL_CLASS=com.nsn.mme.common.communication.dmx.DMXChannel 
+DMX_CHANNEL_DATA_PROC_CLASS=com.nsn.mme.sgsnFramework.communication.dataprocessor.DMXDataProcessor
+DMX_CHANNEL_CAPACITY=5120
+DMX_CHANNEL_FAMILY=0x942
+DMX_CHANNEL_PROCESS_ID=0x00
+DMX_CHANNEL_FOCUS=0x00
+
+#########################################################
+#  CLI CHANNEL
+#########################################################
+CLI_CHANNEL_ID=UDP_CHANNEL_RANAP
+CLI_CHANNEL_CLASS=com.nsn.mme.common.communication.udp.UDPChannel
+CLI_CHANNEL_DATA_PROC_CLASS=com.nsn.mme.sgsnFramework.communication.dataprocessor.CLIDataProcessor
+CLI_CHANNEL_TYPE=UDP
+CLI_CHANNEL_CAPACITY=4096
+CLI_CHANNEL_PORT=52042
+
+#########################################################
+#  "0" DESTINATION
+#########################################################
+0_DESTINATION_ID="0"
+0_DESTINATION_HOST=localhost
+0_DESTINATION_PORT=8926
+
+#########################################################
+#  TRHR DESTINATION
+#########################################################
+TRHR_DESTINATION_ID="941"
+TRHR_DESTINATION_HOST=localhost
+TRHR_DESTINATION_PORT=9941
+
+#########################################################
+#  A66 DESTINATION
+#########################################################
+A66_DESTINATION_ID="A66"
+A66_COMPUTER_ID=0x4ECE
+A66_FAMILY=0xA66
+A66_PROCESS_ID=0x0000
+A66_FOCUS=0x00
+
+#########################################################
+#  CLI DESTINATION
+#########################################################
+CLI_DESTINATION_ID="FMTHANDLER"
+CLI_DESTINATION_HOST=localhost
+CLI_DESTINATION_PORT=52052

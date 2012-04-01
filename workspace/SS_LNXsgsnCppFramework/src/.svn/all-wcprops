@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/paco_repo/!svn/ver/1441/Projects/SS_LNXsgsnCppFramework/src
+END
+Process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paco_repo/!svn/ver/1421/Projects/SS_LNXsgsnCppFramework/src/Process.cpp
+END
+State.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/src/State.cpp
+END
+StatesMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/src/StatesMap.cpp
+END
+INIFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/src/INIFileReader.cpp
+END
+ProgressState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paco_repo/!svn/ver/1361/Projects/SS_LNXsgsnCppFramework/src/ProgressState.cpp
+END
+MessageFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/src/MessageFactory.cpp
+END
+Framework.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paco_repo/!svn/ver/1441/Projects/SS_LNXsgsnCppFramework/src/Framework.cpp
+END
+ProcessExecutor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/paco_repo/!svn/ver/1410/Projects/SS_LNXsgsnCppFramework/src/ProcessExecutor.cpp
+END

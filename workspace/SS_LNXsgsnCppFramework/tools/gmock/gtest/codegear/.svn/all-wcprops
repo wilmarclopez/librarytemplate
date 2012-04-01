@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/codegear
+END
+gtest_all.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/codegear/gtest_all.cc
+END
+gtest_unittest.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/codegear/gtest_unittest.cbproj
+END
+gtest.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/codegear/gtest.cbproj
+END
+gtest_link.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/codegear/gtest_link.cc
+END
+gtest_main.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/codegear/gtest_main.cbproj
+END
+gtest.groupproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/paco_repo/!svn/ver/1435/Projects/SS_LNXsgsnCppFramework/tools/gmock/gtest/codegear/gtest.groupproj
+END
